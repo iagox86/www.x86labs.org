@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+<html>
+    
+    <head>
+        <title>x86 Labs - Blogroll</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="resx/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <link href="resx/style.css" rel="stylesheet" type="text/css" media="screen" />
+    </head>
+    
+    <body>
+        <table class="page" align="center">
+            <tr>
+                <td>
+                    <img src="resx/banner.gif" alt="banner" />
+                </td>
+            </tr>
+                    <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class="navigation">
+                            <a class="navigation" href="index.php">Home</a>
+                        </td>
+                        <td class="navigation">
+                            <a class="navigation" href="rules.php">Rules</a>
+                        </td>
+                        <td class="navigation">
+                            <a class="navigation" href="history.php">History</a>
+                        </td>
+                        <td class="navigation">
+                           <a class="navigation" href="members.php">Members</a>
+                        </td>
+                        <td class="navigation">
+                            <a class="navigation" href="blogroll.php">Blogroll</a>
+                        </td>
+                        <td class="navigation">
+                            <a class="navigation" href="http://forum.x86labs.org">Forums</a>
+                        </td>
+                    </tr>
+                    <!--
+                    <tr>
+                        <td class="navigation">
+                            <a class="navigation" href="#">Links</a>
+                        </td>
+                        <td class="navigation">
+                            <a class="navigation" href="#">Special Thanks</a>
+                        </td>
+                        <td class="navigation">
+                            <a class="navigation" href="#">User Console</a>
+                        </td>
+                        <td class="navigation">
+                            <a class="navigation" href="#">Files</a>
+                        </td>
+                        <td class="navigation">
+                            <a class="navigation" href="#">Login</a>
+                        </td>
+                        <td class="navigation">
+                            <a class="navigation" href="#">Contact Us</a>
+                        </td>
+                    </tr>
+                    -->
+                </table>
+            </td>
+        </tr>            <tr>
+                <td>
+                    <span class="pageheader">Clan x86 Blogroll:</span>
+                    <br />
+                    <p>
+                        <a href="http://wjlafrance.wordpress.com/">William's Blog</a><br />By: Joe[x86]<br /><br />
+<a href="http://www.skullsecurity.org/">SkullSecurity</a><br />By: iago[x86]<br /><br />
+<a href="http://www.zombiemeter.org/">ZombieMeter</a><br />By: iago[x86]<br /><br />
+<a href="http://www.iccup.com/profile/blogs/iCCup.tofucake.html">Blog of User iCCup.tofucake</a><br />By: rabbit[x86]<br /><br />
+<a href="http://enderx86.wordpress.com">Ender's Blog</a><br />By: Ender[x86]<br /><br />
+                    </p>
+                </td>
+            </tr>
+                    <tr>
+            <td class="footer">
+                <div align="right">
+                    <a href="index.php" class="bottom">Home</a> &middot; 
+                    <a href="rules.php" class="bottom">Rules</a> &middot; 
+                    <a href="history.php" class="bottom">History</a> &middot; 
+                    <a href="members.php" class="bottom">Members</a> &middot;
+                    <a href="http://forum.x86labs.org" class="bottom">Forums</a>
+                    <br />
+                    <br />
+                    A Quikness Design, updated by Joe[x86] - Copyright Clan x86
+                </div>
+            </td>
+        </tr>        </table>
+	</body>
+</html>

@@ -1,0 +1,75 @@
+/*
+    Element classes
+*/
+
+a.navigation
+{
+    color:              white;
+}
+
+table.page
+{
+    width:              712px;
+    border-top:         solid 1px;
+    border-left:        solid 1px;
+    border-right:       solid 1px;
+    border-bottom:      solid 1px;
+}
+
+td.navigation
+{
+    width:              117px;
+    border-top:         solid 1px;
+    border-left:        solid 1px;
+    border-right:       solid 1px;
+    border-bottom:      solid 1px;
+    text-align:         center;
+    background-color:   gray;
+}
+
+td.footer
+{
+    border-top:         solid 1px;
+    border-left:        solid 1px;
+    border-right:       solid 1px;
+    border-bottom:      solid 1px;
+    height:             35px;
+    color:              white;
+    background-color:   #8B9EBB;
+}
+
+img.rightbanner
+{
+    float:              right;
+    border-top:         solid 1px grey;
+    border-left:        solid 1px grey;
+    border-bottom:      solid 1px grey;
+}
+
+img.leftbanner
+{
+    float:              left;
+    border-top:         solid 1px grey;
+    border-right:       solid 1px grey;
+    border-bottom:      solid 1px grey;
+}
+
+span.pageheader
+{
+    font-size:          18px;
+    font-weight:        bold;
+}
+
+span.sectionheader
+{
+    font-weight:        bold;
+}
+
+/*
+    General overrides
+*/
+body, td, th
+{
+    font-family:        Verdana;
+    font-size:          10px;
+}
